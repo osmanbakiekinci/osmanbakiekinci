@@ -1,6 +1,6 @@
 - 👋 Merhaba, Ben Osman Baki Ekinci
 - 👀 Adıyaman'da doğdum ve büyüdüm. 
-- 🌱 16 yaşındayım.
+- 🌱 18 yaşındayım.
 - 💞️ Şuan Python,Javascript öğreniyorum.
 - 📫 Bana ulaşmak isterseniz instagram adresimi şuraya bırakayım.
 -   https://www.instagram.com/osmanbakiekinci/?hl=tr/
